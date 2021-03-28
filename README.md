@@ -20,10 +20,7 @@ My name is Yuzu, I like to develop many interesting things. 😄
 📬 Contancts
 <br>
 <br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:poettzu@gmail.com)](mailto:poettzu@gmail.com) 
-
-<a href="https://blog.naver.com/hyjs913">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:poettzu@gmail.com)](mailto:poettzu@gmail.com)<a href="https://blog.naver.com/hyjs913">
+<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
